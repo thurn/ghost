@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Ghost</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Ghost</string>
+    <string name="currentLetters">Current Letters:</string>
+    <string name="submitLetter">Submit Letter</string>
+    <string name="challengeWord">Challenge Word</string>
+
+</resources>

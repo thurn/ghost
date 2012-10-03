@@ -7,5 +7,11 @@
     <string name="currentLetters">Current Letters:</string>
     <string name="submitLetter">Submit Letter</string>
     <string name="challengeWord">Challenge Word</string>
+    <string name="letter">Letter</string>
+    <string name="ghost">Ghost</string>
+    <string name="youWin">You Win!</string>
+    <string name="youLose">You Lose!</string>
+    <string name="oneLetter">You must submit one letter.</string>
+    <string name="playAgain">Play Again</string>
 
 </resources>
